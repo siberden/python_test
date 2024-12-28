@@ -5,4 +5,4 @@ def in_autotests_we_trust(a,b):
         print('FAILED')
 
 in_autotests_we_trust(10,'10')
-in_autotests_we_trust(1,True)
+in_autotests_we_trust(False ,0)
